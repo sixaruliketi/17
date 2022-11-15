@@ -45,5 +45,8 @@ class MainActivity : AppCompatActivity() {
             sum.text = sum2.toString()
         }
 
+
+
+        //
     }
 }
